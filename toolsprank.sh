@@ -1,4 +1,3 @@
-clear
 figlet PRANKERS | lolcat
 echo "====================================================
 # Coded   : Reys Devil
